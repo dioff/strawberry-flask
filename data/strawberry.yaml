@@ -1,0 +1,14 @@
+train: C:\\Users\\Lazzy\\Desktop\\yolov5\\strawberry4300\\ImageSets\\train.txt
+val: C:\\Users\\Lazzy\\Desktop\\yolov5\\strawberry4300\\ImageSets\\val.txt
+
+# Classes
+nc: 7  # number of classes
+names: ["Angular Leafspot",
+"Anthracnose Fruit Rot",
+"Blossom Blight",
+"Gray Mold",
+"Leaf Spot",
+"Powdery Mildew Fruit",
+"Powdery Mildew Leaf"
+]  # class names
+
